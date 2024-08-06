@@ -8,9 +8,10 @@
 
 
 
-## Pablo Gabriel Lara Chodoma  <img src="https://uploaddeimagens.com.br/imagens/qtPgmuc" min-width="400px" max-width="400px" width="400px" align="right" alt="NoSignal">
+## Pablo Gabriel Lara Chodoma  <img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
-#### Software Engineer Student 4/8
+#### - Software Engineer Student 4/8
+#### - Data Analyst at Shooting House
 
 
 
@@ -34,7 +35,7 @@
 &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="Left"  src="https://github-readme-streak-stats.herokuapp.com?user=ThePabloDev&theme=radical&mode=weekly" />
+<img width=55% align="Left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePabloDev&theme=blue-green" />
 
 &nbsp;
 &nbsp;
@@ -47,7 +48,3 @@
 </a>
 <a href="https://www.linkedin.com/in/pablo-gabriel-lara-chodoma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
-
-  
-  
-https://github-readme-stats.vercel.app/api/top-langs/?username=ThePabloDev&theme=blue-green
