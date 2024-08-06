@@ -15,7 +15,7 @@
 
 
 
-#### some of my skills:
+#### Some of my skills:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -50,4 +50,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=ThePabloDev&theme=blue-green
