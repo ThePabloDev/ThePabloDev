@@ -8,7 +8,7 @@
 
 
 
-## Pablo Gabriel Lara Chodoma  <img src="https://cdn.discordapp.com/attachments/1215072121080914010/1263217301117997187/07174.gif?ex=66b3238a&is=66b1d20a&hm=2a4a2959e562c4103797c102c13e0529e27d3b4635f6e21929a1f12252ffef0e&" min-width="200px" max-width="200px" width="200px" align="right" alt="LogoNoSignal">
+## Pablo Gabriel Lara Chodoma
 
 #### - Software Engineer Student 4/8
 #### - Data Analyst at Shooting House
