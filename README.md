@@ -8,7 +8,7 @@
 
 
 
-## Pablo Gabriel Lara Chodoma  <img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="">
+## Pablo Gabriel Lara Chodoma  <img src="https://cdn.discordapp.com/attachments/1215072121080914010/1263217301117997187/07174.gif?ex=66b3238a&is=66b1d20a&hm=2a4a2959e562c4103797c102c13e0529e27d3b4635f6e21929a1f12252ffef0e&" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 #### - Software Engineer Student 4/8
 #### - Data Analyst at Shooting House
@@ -33,13 +33,6 @@
 
 &nbsp;
 &nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="Left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePabloDev&theme=blue-green" />
-
-&nbsp;
-&nbsp;
-
 
 ### Contacts:
 
