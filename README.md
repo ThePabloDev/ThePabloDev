@@ -1,7 +1,4 @@
-
-
-
- </div>
+</div>
  
  &nbsp;
  &nbsp;
@@ -10,24 +7,11 @@
 
 ## Pablo Gabriel Lara Chodoma
 
+## Apenas o Github de um estudante
+
 #### - Software Engineer Student 4/8
-#### - Data Analyst at Shooting House
+#### - RPA E BI Developer in Sicredi
 
-
-
-
-#### Currently working with:
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-
-
-#### Apps used at work:
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 
 #### Contacts:
