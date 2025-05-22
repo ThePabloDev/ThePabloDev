@@ -40,6 +40,7 @@ Outside of the professional environment, I am a 3D design enthusiast, using Blen
  <a href = "https://discordapp.com/users/758684560077881394"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+<br/>
 
 ============================================================================================
 
