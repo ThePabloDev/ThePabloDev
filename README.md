@@ -39,3 +39,46 @@ Outside of the professional environment, I am a 3D design enthusiast, using Blen
 <a href="https://www.linkedin.com/in/pablogl-chodoma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  <a href = "https://discordapp.com/users/758684560077881394"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+========================================================================================================================================
+
+
+</div>
+ 
+&nbsp;
+&nbsp;
+
+#### Pablo Gabriel Lara Chodoma
+
+Jovem entusiasta do desenvolvimento de software | Apaixonado por tecnologia, dados e inovação
+
+Com uma abordagem analítica e criativa, estou sempre desenvolvendo, buscando novas tecnologias e melhoria contínua. Procuro soluções que agreguem valor e façam a diferença, trazendo uma perspectiva inovadora para cada projeto.
+
+Fora do ambiente profissional, sou entusiasta de design 3D, usando Blender para criar mapas, ambientes e personagens, explorando minha criatividade no design digital. Essa paixão complementa minha trajetória, permitindo enfrentar desafios com uma visão única e orientada a resultados.
+
+#### - Estudante de Engenharia de Software  
+#### - Desenvolvedor RPA e BI || Sicredi Centro Sul PR/SC/RJ
+
+<div>
+  <p><strong>Principais ferramentas de trabalho:</strong></p>
+  <div style="display: flex; gap: 12px; align-items: center;">
+    <!-- Logo PostgreSQL -->
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Logo PostgreSQL" />
+    <!-- Logo SQL Server -->
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Logo SQL Server" />
+    <!-- Logo Python -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo Python" />
+    <!-- Logo Power BI -->
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Logo Power BI" />
+  </div>
+</div>
+
+#### Contatos:
+
+<div> 
+<a href="https://www.instagram.com/pablogl.chodoma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/pablogl-chodoma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://discordapp.com/users/758684560077881394" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</div>
