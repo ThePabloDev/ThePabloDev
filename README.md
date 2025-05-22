@@ -5,9 +5,9 @@
 
 
 
-##Pablo Gabriel Lara Chodoma
+Pablo Gabriel Lara Chodoma
 
-##Jovem entusiasta em desenvolvimento de software | Apaixonado por tecnologia, dados e inovação
+Jovem entusiasta em desenvolvimento de software | Apaixonado por tecnologia, dados e inovação
 ##Com uma abordagem analítica e criativa, estou sempre em desenvolvimento, buscando novas tecnologias e aprimoramento contínuo. Procuro soluções que agreguem valor e façam a diferença, trazendo uma perspectiva inovadora para cada projeto.
 ##Fora do ambiente profissional, sou entusiasta do design 3D, usando o Blender para criar mapas, ambientes e personagens, e explorando minha criatividade em design digital. Essa paixão complementa minha trajetória, permitindo que eu aborde desafios com uma visão única e ##orientada a resultados.
 
